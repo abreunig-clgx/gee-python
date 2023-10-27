@@ -1,1 +1,11 @@
 *.json
+*.shp
+*.shx
+*.sbn
+*.sbx
+*.prj
+*.shx
+*.shp.xml
+*.dbf
+*.cpg
+*.lock
