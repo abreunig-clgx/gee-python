@@ -9,3 +9,7 @@
 *.dbf
 *.cpg
 *.lock
+*.tif
+*.xml
+*.tfw
+*.ovr
